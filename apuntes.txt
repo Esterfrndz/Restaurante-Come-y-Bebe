@@ -1,0 +1,7 @@
+-cambiar las fotos de los chefs, el nombre y la descripción
+-revisar cómo se ha hecho la sección de comentarios usando chatgpt
+-Buscar imagenes de menú
+-Modificar los ingredientes, nombres y precios de los menús 
+-Revisar subida de fotos min 4:57 (probar ruta "./images/chefs/chef1.jpg")
+-Solución a foto de chefs, agregar una foto estática para todos los chefs y que sólo se edite los datos
+-Buscar una foto de chef
